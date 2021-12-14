@@ -11,3 +11,7 @@ yarn add  @chakra-ui/react @chakra-ui/core @emotion/react @emotion/styled framer
 ```
 yarn add  react-icons
 ```
+
+```
+yarn add react-hook-form
+```

@@ -35,3 +35,7 @@ yarn add @types/faker -D
 ```
 yarn add react-query
 ```
+
+```
+yarn add axios
+```

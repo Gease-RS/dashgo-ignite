@@ -1,4 +1,10 @@
-## Comandos
+<div align="center">
+  <p align="center">
+    <img src="src/assets/dashgo-img.png" width="680" height="290" alt="Teamseas" />
+  </p>
+ <h1>Dashgo </h1>
+ <h3>Projeto em Reactjs, Chackra-UI, React-Query, Miragejs<h3>
+</div>
 
 ```bash
 yarn add typescript @types/react @types/node -D

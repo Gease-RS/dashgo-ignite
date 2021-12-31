@@ -9,17 +9,17 @@ export default function Profile({ showProfileData }: ProfileProps) {
     <Flex align="center">
       {showProfileData && (
         <Box mr="4" textAlign="right">
-          <Text>Diego Fernandes</Text>
+          <Text>Gease Oliveira da Rosa</Text>
           <Text color="gray.300" fontSize="small">
-            diego@gmail.com
+            gease@gease.com
           </Text>
         </Box>
       )}
 
       <Avatar
         size="md"
-        name="Diego Fernandes"
-        src="https://github.com/diego3g.png"
+        name="Gease Oliveira da Rosa"
+        src="https://github.com/gease-rs.png"
       />
     </Flex>
   );
